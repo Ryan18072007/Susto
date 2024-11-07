@@ -1,0 +1,11 @@
+body{
+    background-color: black; 
+    
+}
+
+img:hover{
+   content: url(img.mal.png);
+}
+h1{
+    color: azure;
+}
